@@ -1,0 +1,8 @@
+C:\Users\mek\source\repos\pr15-master\bin\Debug\pr15.exe.config
+C:\Users\mek\source\repos\pr15-master\bin\Debug\pr15.exe
+C:\Users\mek\source\repos\pr15-master\bin\Debug\pr15.pdb
+C:\Users\mek\source\repos\pr15-master\obj\Debug\pr15.csproj.AssemblyReference.cache
+C:\Users\mek\source\repos\pr15-master\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+C:\Users\mek\source\repos\pr15-master\obj\Debug\pr15.exe
+C:\Users\mek\source\repos\pr15-master\obj\Debug\pr15.pdb
+C:\Users\mek\source\repos\pr15-master\obj\Debug\pr15.exe.config
